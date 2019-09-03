@@ -8,3 +8,8 @@ button {
 	padding: 20px;
 	border-radius: 8px;
 }
+.video {
+	/*object-fit: initial;*/
+	/*max-height: 80%;*/
+	height: 80%;
+}
