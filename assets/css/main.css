@@ -1,0 +1,10 @@
+body {
+	background: #ffe135;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+button {
+	margin: 1%;
+	padding: 20px;
+	border-radius: 8px;
+}
